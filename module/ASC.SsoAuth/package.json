@@ -21,7 +21,7 @@
     "minify-xml": "^2.5.0",
     "morgan": "1.10.0",
     "nconf": "^0.10.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-forge": "^0.10.0",
     "nodemon": "2.0.4",
     "request": "^2.88.2",
